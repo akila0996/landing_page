@@ -13,7 +13,7 @@ img{
 
 h1{
     text-transform: capitalize;
-    font-size: 52px;
+    font-size: 49px;
 }
 button{
     border: none;
@@ -21,9 +21,13 @@ button{
     padding: 8px 15px;
     border-radius: 4px;
     margin-top: 30px;
+    font-weight: 700;
 }
 p{
+    font-weight: bold;
     margin-top: 30px;
+    color: rgb(195, 192, 192);
+
 }
 .a{
     width: 49%;
